@@ -795,13 +795,13 @@ input[type=submit]:hover::before {
   z-index: -1;
 }
 .move-circle.background-main .icon-circle {
-  background-color: var(--bg-color);
+  
 }
 .move-circle.background-section .icon-circle {
-  background-color: var(--assistant-color);
+
 }
 .move-circle.background-theme .icon-circle {
-  background-color: var(--theme-color);
+ 
 }
 .move-circle.border-circle {
   border: 1px solid var(--heading-color);
